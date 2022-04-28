@@ -1,0 +1,18 @@
+body {
+height: auto;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: Courier;
+    background-color: rgb(255, 0, 174);
+}
+p{
+    color: red;
+    font-style: italic;
+    background-color: blue; 
+}
+.в1{
+    font-weight: bold;
+}
+ 
